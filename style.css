@@ -15,7 +15,7 @@ h1{
     margin-bottom: 0px;
     font-size: 50px;
     font-style: oblique;
-    background-image: linear-gradient(maroon, black );
+    background-image: linear-gradient(rgb(107, 3, 3), black );
     color: mintcream;
     padding-left: 10px;
     margin-top: 50px;
@@ -26,5 +26,14 @@ h1{
     font-size: 100px;
     background-image: none;
     color: black;
+}
+a{
+    color:whitesmoke;
+    text-decoration: none;
+   background-image: linear-gradient(rgb(66, 165, 127), black);
+   padding: 4px 4px;
+   border-radius: 7px;
+   box-shadow: 6px 6px 6px darkslategray;
+
 }
 
